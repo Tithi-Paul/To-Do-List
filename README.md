@@ -16,3 +16,6 @@
 
 ## Show Tasks (Without Completed Task)
 ![2023-08-13 - 22-44-10 - Show Tasks](https://github.com/Tithi-Paul/To-Do-List/assets/45089905/08adb22f-7043-482f-8043-bc2f5397483d)
+
+## Django Administration
+![2023-08-13 - 23-04-56 - Select task model to change - Django site admin](https://github.com/Tithi-Paul/To-Do-List/assets/45089905/d35acf14-7edd-42e0-ba7f-562fbfd0c24e)
